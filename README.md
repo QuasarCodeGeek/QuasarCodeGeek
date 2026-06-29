@@ -18,7 +18,10 @@ I build systems focused on improving workflows, data management, and user experi
 ---
 
 <a name="projects"></a>
+<!-- ## 🚀 Projects -->
 ## 🚀 Projects
+
+[![View All Projects](https://img.shields.io/badge/View%20All%20Projects-→-blue?style=flat)](./Projects.md)
 
 ### 🏛️ Government & Institutional Systems
 
