@@ -27,9 +27,9 @@
   <!-- <a href="YOUR_LEETCODE_URL" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a> -->
-  <!-- <a href="YOUR_TRYHACKME_URL" target="_blank" rel="noopener noreferrer">
+  <a href="https://tryhackme.com/p/BreachTyrant" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/TRYHACKME-000000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-  </a> -->
+  </a>
 </p>
 
 <p align="center">
