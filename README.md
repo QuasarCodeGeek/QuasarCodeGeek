@@ -15,35 +15,59 @@
 </p>
 
 <p align="center">
-  <a href="linkedin.com/in/jayson-reyes-185a3622a">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/jayson-reyes-185a3622a" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_LEETCODE_URL">
+  <a href="https://jayson-reyes-developer-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/DEVELOPER_WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Developer Website" />
+  </a>
+  <a href="mailto:jaysonreyes.jsr11@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <!-- <a href="YOUR_LEETCODE_URL" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a> -->
+  <!-- <a href="YOUR_TRYHACKME_URL" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/TRYHACKME-000000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  </a> -->
+</p>
+
+<p align="center">
+  <!-- <a href="linkedin.com/in/jayson-reyes-185a3622a">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://jayson-reyes-developer-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/PROFESSIONAL_WEB-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:jaysonreyes.jsr11@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a> -->
+  <!-- <a href="YOUR_LEETCODE_URL">
     <img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="YOUR_TRYHACKME_URL">
     <img src="https://img.shields.io/badge/TRYHACKME-000000?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="YOUR_PERSONAL_WEBSITE">
     <img src="https://img.shields.io/badge/PERSONAL_WEB-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="YOUR_PROFESSIONAL_WEBSITE">
+  <a href="https://jayson-reyes-developer-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/PROFESSIONAL_WEB-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="mailto:jaysonreyes.jsr11@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <code>◆ SYSTEM ONLINE ◆</code>
 </p>
 
 > **PLAYER NOTE:**
-> I build with the goal of making technology useful, beneficial, and sustainable — from small personal tools to systems designed to serve our communities, big or small.
+> I build with the goal of making technology useful, beneficial, and sustainable for our community, big or small.
 
 ---
 
